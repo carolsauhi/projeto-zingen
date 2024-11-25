@@ -11,7 +11,7 @@
 }
 
 .px-lg {
-  padding-block: var(--px-lg);
+  padding-inline: var(--px-lg);
 }
 
 .container {
@@ -42,7 +42,7 @@
   gap: 1rem;
 }
 
-.gap-1\.5{
+.gap-1\.5 {
   gap: 1.5rem;
 }
 

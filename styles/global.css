@@ -92,11 +92,11 @@ a:hover {
 
 ul[role='list'] {
   list-style: none;
-  display: inline-block;
 }
 
 img {
   max-width: 100%;
+  display: inline-block;
 }
 
 @media (width >= 80em) {
